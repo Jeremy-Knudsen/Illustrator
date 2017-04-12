@@ -10,11 +10,11 @@ function renameArtboards() {
         aBPrefix = "";
     for (i; i--;) {
         if (i < 9) {
-            aBPrefix = "0" + (i + 1) + "_";
+            aBPrefix = "0" + (i + 1);
         } else {
-            aBPrefix = (i + 1) + "_";
+            aBPrefix = (i + 1);
         }
-        aB[i].name = aBPrefix + aB[i].name.replace(/^(\d*_)+/, "");
+        aB[i].name = aBPrefix;
     }
 }
 renameArtboards();
