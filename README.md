@@ -20,7 +20,7 @@ C:\Program Files\Adobe\Adobe Illustrator CC 2017\Presets\en_US\Scripts
 
 ## Contributors
 
-Please share the things that you think would benefit the creative community and if I will gladly add you to this list of contributors:
+Please share the things that you think would benefit the creative community and I'll gladly add you to this list of contributors:
 
 John Wundes ( john@wundes.com )
   - copyToMultipleObjects.js
@@ -30,6 +30,7 @@ John Wundes ( john@wundes.com )
   
 Jeremy Knudsen ( jeremyknudsen@outlook.com )
   - renameArtboards.js
+  - renameArtboardsToNumberAndName.js
 
 ## License
 
