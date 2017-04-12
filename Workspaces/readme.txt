@@ -1,1 +1,0 @@
-C:\Users\%USERNAME%\AppData\Roaming\Adobe\Adobe Illustrator 21 Settings\en_US\x64\Workspaces
