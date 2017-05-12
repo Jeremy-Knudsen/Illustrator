@@ -15,7 +15,7 @@ A lot of times I have to flatten my PC and set up everything form scratch. Since
 Place this file in the following location:
 
 **Windows**
-%appdata%\Roaming\Adobe\Adobe Illustrator 21 Settings\en_US\x64\Workspaces
+%appdata%\Adobe\Adobe Illustrator 21 Settings\en_US\x64\Workspaces
 
 ## Contributors
 
