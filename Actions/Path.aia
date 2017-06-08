@@ -1,0 +1,53 @@
+/version 3
+/name [ 4
+	50617468
+]
+/isOpen 0
+/actionCount 1
+/action-1 {
+	/name [ 11
+		4d616b6520737175617265
+	]
+	/keyIndex 0
+	/colorIndex 0
+	/isOpen 1
+	/eventCount 1
+	/event-1 {
+		/useRulersIn1stQuadrant 0
+		/internalName (ai_plugin_simplify)
+		/localizedName [ 8
+			53696d706c696679
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 1
+		/showDialog 0
+		/parameterCount 4
+		/parameter-1 {
+			/key 1919182693
+			/showInPalette -1
+			/type (unit real)
+			/value 50.0
+			/unit 592474723
+		}
+		/parameter-2 {
+			/key 1634561652
+			/showInPalette -1
+			/type (unit real)
+			/value 0.0
+			/unit 591490663
+		}
+		/parameter-3 {
+			/key 1936553064
+			/showInPalette -1
+			/type (boolean)
+			/value 1
+		}
+		/parameter-4 {
+			/key 1936552044
+			/showInPalette -1
+			/type (boolean)
+			/value 0
+		}
+	}
+}
